@@ -1,0 +1,16 @@
+{
+  "name": "SSR_Angular",
+  "version": "0.0.0",
+  "authors": [
+    "Gerald <gwake1@gmail.com>"
+  ],
+  "description": "Teaching Angular to David and Pete",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
